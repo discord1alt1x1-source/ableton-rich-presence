@@ -4,7 +4,7 @@ https://youtu.be/vIYj3ROgcoM
 
 
 
-A Python script that shows your **Ableton Live 12 Suite activity** on Discord using Rich Presence.
+A Python script that shows your Ableton Live 12 Suite activity on Discord using Rich Presence.
 Displays project name, plugins in use, and more.
 
 ## Features
